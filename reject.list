@@ -1,7 +1,6 @@
 # 拒绝访问列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,washingtonpost.com
