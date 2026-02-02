@@ -9,4 +9,5 @@
 # 该域名 + 所有多级子域名
 #+.shili.com
 
-- '+.netcarshow.com'
+payload:
+    - +.netcarshow.com'
