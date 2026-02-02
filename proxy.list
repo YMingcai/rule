@@ -28,4 +28,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # 补充域名
 DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,carbodydesign.com
+DOMAIN-SUFFIX,stability.ai
