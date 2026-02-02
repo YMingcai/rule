@@ -6,8 +6,4 @@
 # 域名关键字匹配
 #DOMAIN-KEYWORD,shili
 
-# 该域名 + 所有多级子域名
-#+.shili.com
-
-payload:
-    - +.netcarshow.com
+DOMAIN-SUFFIX,netcarshow.com
