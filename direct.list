@@ -1,6 +1,12 @@
 # 直连补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,baidu.com
+#DOMAIN-SUFFIX,shili.com
 
+# 域名关键字匹配
+#DOMAIN-KEYWORD,shili
 
+# 该域名 + 所有多级子域名
+#+.shili.com
+
++.netcarshow.com
