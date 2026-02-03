@@ -6,7 +6,7 @@
 # 域名关键字匹配
 #DOMAIN-KEYWORD,shili
 
-# 媒体域名
+# 媒体域名后缀匹配
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,washingtonpost.com
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,secretchina.com
 DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,shenzhoufilm.com
 
-# 补充域名
+# 补充域名后缀匹配
 DOMAIN-SUFFIX,rhino3d.com
 DOMAIN-SUFFIX,siemens.com.cn
 DOMAIN-SUFFIX,3ds.com
